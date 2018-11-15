@@ -14,3 +14,7 @@ part2 - main work about analysing the data
 cycle - one of the main goals of the work, the "highway" cycle
 
 3-relevant - second main part, some most often met relevant "paths"
+
+analysis - the final output of the part2 file, shows some interesting info about the starts
+
+report.final - my final report summing up the work done
